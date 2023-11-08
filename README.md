@@ -2,7 +2,7 @@
 
 ## Açıklama
 
-Bu proje, Python ve OpenCV kullanarak, lazer pointer gibi hızlı hareket eden nesnelerin tespitini sağlayan basit bir sistemdir. Sistem, belirlenen hız limiti aşılırsa sesli bir uyarı vermektedir. 
+Filistin için güvenlik ihtiyaçlarını göz önünde bulundurarak tasarladığım bu sistem, Python ve OpenCV teknolojilerini kullanmaktadır. Sistem, uzaktan gelen hızlı hareket eden nesneleri (örneğin bir füze ışığı gibi) basit bir yöntemle tespit ederek uyarı sinyali verebilmektedir. En iyi sonuçlar için yüksek çözünürlüklü bir kamera kullanımı önerilmektedir.
 
 ## Özellikler
 
